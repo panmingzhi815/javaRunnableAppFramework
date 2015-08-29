@@ -1,0 +1,2 @@
+# javaRunnableAppFramework
+一个可在windows上直接运行的java桌面应用软件
