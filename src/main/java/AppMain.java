@@ -1,10 +1,11 @@
-import javax.swing.*;
+import javax.swing.JOptionPane;
 
 /**
  * Created by panmingzhi on 2015/8/29.
  */
 public class AppMain {
+
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null,"java 桌面应用，我来了");
+        JOptionPane.showMessageDialog(null,"我是javaWindow程序","提示", JOptionPane.INFORMATION_MESSAGE);
     }
 }
