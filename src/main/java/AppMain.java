@@ -6,6 +6,7 @@ import javax.swing.JOptionPane;
 public class AppMain {
 
     public static void main(String[] args) {
+        System.out.println(123);
         JOptionPane.showMessageDialog(null,"我是javaWindow程序","提示", JOptionPane.INFORMATION_MESSAGE);
     }
 }
